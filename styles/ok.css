@@ -1,0 +1,10 @@
+*{
+            margin: 0;
+        }
+        .Blog{
+            background-color: aquamarine;
+            border: solid 8px  green;
+            border-radius: 5px ;
+            margin: 10px 50px;
+            padding: 5px;
+        }
